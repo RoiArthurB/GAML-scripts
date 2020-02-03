@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Experiments</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.xtext.ui.shared.xtextBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
+		<nature>msi.gama.application.gamaNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>external/Pedagogical-Materials.md</name>
+			<type>1</type>
+			<location>/home/roiarthurb/Documents/GAMA/gama.wiki/Pedagogical-Materials.md</location>
+		</link>
+		<link>
+			<name>external/sidebars.json</name>
+			<type>1</type>
+			<location>/home/roiarthurb/Documents/GAMA/gama-platform.github.io/website/sidebars.json</location>
+		</link>
+	</linkedResources>
+</projectDescription>

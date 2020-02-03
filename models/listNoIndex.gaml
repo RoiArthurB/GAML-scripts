@@ -91,7 +91,7 @@ global {
 	 * @param  `json_file( ).contents`
 	 * @return List of content from the JSON
 	 */
-	list<string> json2list(unknown jsonContent){
+	list<string> json2list(container jsonContent){
 		list<string> jsonList;
 		
 		// Loop over map or list
