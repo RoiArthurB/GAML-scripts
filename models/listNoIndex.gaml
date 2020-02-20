@@ -14,8 +14,8 @@ model listNoIndex
 global {
 	
 	/* VAR */
-	string pathToWiki <- "/home/roiarthurb/Documents/GAMA/gama.wiki" parameter:true;
-	string pathToSidebarJson <- "/home/roiarthurb/Documents/GAMA/gama-platform.github.io/website/sidebars.json" parameter:true;
+	string pathToWiki <- "/path/to/gama.wiki" parameter:true;
+	string pathToSidebarJson <- "/path/to/gama-platform.github.io/website/sidebars.json" parameter:true;
 	bool verbose <- false parameter:true;
 	/* === */
 	
